@@ -16,3 +16,13 @@ body
 {
     color: white;
 }
+.nav
+{
+    display: flex;
+    flex-direction: row;
+}
+.brandning
+{
+    display: flex;
+    flex-direction: row;
+}
