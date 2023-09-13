@@ -1,0 +1,18 @@
+body
+{
+    background-color: #35424a;
+}
+.brandning
+{
+    display: flex;
+    flex-direction: row;
+}
+.title
+{
+    color: rgba(208, 52, 0, 0.961);
+    margin-right: 7px;
+}
+.title2
+{
+    color: white;
+}
